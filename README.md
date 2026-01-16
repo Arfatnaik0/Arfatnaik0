@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arfat Naik
+# Hi, I'm Arfat Naik
 
 ### ML developer
 
