@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://github.com/Arfatnaik0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Arfatnaik0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arfat-naik-248a31314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arfat-naik-248a31314" height="30" width="40" /></a>
-<a href="https://instagram.com/arfatt._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arfatt._._" height="30" width="40" /></a>
 <a href="https://hackerrank.com/Arfatnaik05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Arfatnaik05" height="30" width="40" /></a>
 </p>
 
