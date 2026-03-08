@@ -6,7 +6,7 @@
 
 - 👨‍💻 Visit my Portfolio Website **[https://personal-portfolio-arfat.vercel.app/](https://personal-portfolio-arfat.vercel.app/)**
 
-- 📄 Take a look at my Resume **[https://drive.google.com/file/d/17Ew3_xZmUvR7Pzg_5dcoskCIWxS8z9bZ/view?usp=sharing](https://drive.google.com/file/d/17Ew3_xZmUvR7Pzg_5dcoskCIWxS8z9bZ/view?usp=sharing)**
+- 📄 Take a look at my Resume **[https://drive.google.com/file/d/1fV0ZBJpNoVh4bdSVGhbU0yezTV2mhPQD/view?usp=sharing](https://drive.google.com/file/d/1fV0ZBJpNoVh4bdSVGhbU0yezTV2mhPQD/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
