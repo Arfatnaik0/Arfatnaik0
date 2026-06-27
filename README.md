@@ -1,12 +1,13 @@
 # Hi, I'm Arfat Naik
 
-### ML developer
+### Fullstack and ML developer
 
 - 📫 How to reach me **arfatnaik05@gmail.com**
 
 - 👨‍💻 Visit my Portfolio Website **[https://personal-portfolio-arfat.vercel.app/](https://personal-portfolio-arfat.vercel.app/)**
 
-- 📄 Take a look at my Resume **[https://drive.google.com/file/d/1fV0ZBJpNoVh4bdSVGhbU0yezTV2mhPQD/view?usp=sharing](https://drive.google.com/file/d/1fV0ZBJpNoVh4bdSVGhbU0yezTV2mhPQD/view?usp=sharing)**
+- 📄 Take a look at my ML Resume **[https://drive.google.com/file/d/1fV0ZBJpNoVh4bdSVGhbU0yezTV2mhPQD/view?usp=sharing](https://drive.google.com/file/d/1fV0ZBJpNoVh4bdSVGhbU0yezTV2mhPQD/view?usp=sharing)**
+- 📄 Take a look at my Fullstack Resume **[https://drive.google.com/file/d/1m1K-8SqNZhQQzT-kiadkRj6SOtWIrrp-/view?usp=sharing](https://drive.google.com/file/d/1m1K-8SqNZhQQzT-kiadkRj6SOtWIrrp-/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
