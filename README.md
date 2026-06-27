@@ -6,8 +6,8 @@
 
 - 👨‍💻 Visit my Portfolio Website **[https://personal-portfolio-arfat.vercel.app/](https://personal-portfolio-arfat.vercel.app/)**
 
-- 📄 Take a look at my ML Resume **[https://drive.google.com/file/d/1fV0ZBJpNoVh4bdSVGhbU0yezTV2mhPQD/view?usp=sharing](https://drive.google.com/file/d/1fV0ZBJpNoVh4bdSVGhbU0yezTV2mhPQD/view?usp=sharing)**
-- 📄 Take a look at my Fullstack Resume **[https://drive.google.com/file/d/1m1K-8SqNZhQQzT-kiadkRj6SOtWIrrp-/view?usp=sharing](https://drive.google.com/file/d/1m1K-8SqNZhQQzT-kiadkRj6SOtWIrrp-/view?usp=sharing)**
+- 📄 Take a look at my ML Resume **[https://drive.google.com/file/d/1GbKypRtrPze3240oO-qQe4NOm2qsVNLr/view?usp=sharing](https://drive.google.com/file/d/1GbKypRtrPze3240oO-qQe4NOm2qsVNLr/view?usp=sharing)**
+- 📄 Take a look at my SDE/Fullstack Resume **[https://drive.google.com/file/d/1rGGirREAnP22dSdHsqHOJZDhMkmw7L5I/view?usp=sharing](https://drive.google.com/file/d/1rGGirREAnP22dSdHsqHOJZDhMkmw7L5I/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
